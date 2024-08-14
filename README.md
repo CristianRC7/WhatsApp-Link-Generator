@@ -24,7 +24,7 @@ The WhatsApp Link Generator is a Python-based application that provides a sleek 
 - **Pandas:** To handle and process CSV data.
 - **Threading:** For smooth, responsive GUI interactions.
 - **ttk:** Provides styled widgets in the Tkinter interface.
-- 
+  
 ## 📦 Project Dependencies
 
 - `numpy==2.0.1`
