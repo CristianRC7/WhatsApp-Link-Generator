@@ -136,5 +136,5 @@ python main.py
 ```
 
 <p align="center">
-  <h1>✨ Created by Cristian David Ramirez Callejas ✨</h1>
+  <h1 align="center">✨ Created by Cristian David Ramirez Callejas ✨</h1>
 </p>
